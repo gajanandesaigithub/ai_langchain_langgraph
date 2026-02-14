@@ -34,3 +34,7 @@ E. Expenditure Budget. (This is new line appended by opening file in append mode
 Its January month.
 The weather is cool.
 World is beautiful.
+E. Expenditure Budget. (This is new line appended by opening file in append mode.)
+Its January month.
+The weather is cool.
+World is beautiful.
