@@ -35,3 +35,12 @@ Other OpenAI Models:
         A fine-tuned model that can detect whether text may be sensitive or unsafe
     GPT base:
         A set of models without instruction following that can understand as well as generate natural language or code
+
+--------------------------
+Ollama models
+--------------------------
+1. Go to: https://ollama.com/download
+2. Download and install the exe (once installed you should see the ollama icon in system tray - right bottom)
+3. After installation open command prompt and run command to run the model e.g.>> ollama run gemma:2b
+    This will download the model (if not already downloaded) and run in command prompt
+4. 
